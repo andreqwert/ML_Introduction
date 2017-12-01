@@ -8,3 +8,4 @@
 
 
 `decision_trees.py` - реализация метода решающих деревьев
+`linear_regression.ipynb` - реализация линейной регрессии
