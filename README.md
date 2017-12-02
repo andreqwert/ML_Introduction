@@ -5,5 +5,5 @@
 2. Pandas - `coursera_pandas.ipynb`
 3. Кросс-валидация - `cross-validation.ipynb`
 4. **Решающие деревья** - `decision_trees.py`        
-5. **Линейная регрессия** - `linear_regression.ipynb`
+5. **Линейная регрессия и стохастический градиентный спуск** - `linear_regression.ipynb`
 
