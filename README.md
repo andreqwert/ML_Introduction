@@ -1,6 +1,6 @@
 # Введение в машинное обучение
 
-База:
+База:       
 0. Списки, словари, множества - `Lists, dicts, sets.ipynb`       
 1. Numpy, Scipy, Matplotlib - `Numpy, Scipy, Matplotlib.ipynb`       
 2. Pandas - `coursera_pandas.ipynb`
