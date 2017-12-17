@@ -7,7 +7,7 @@
 2. Pandas - `Pandas.ipynb`
 3. Seaborn - `seaborn.ipynb`
 4. Кросс-валидация - `cross-validation.ipynb`
-5. **Решающие деревья** - `decision_trees.py`        
+5. **Решающие деревья (ШАД)** - `decision_trees.py`        
 6. **Линейная регрессия и стохастический градиентный спуск** - `linear_regression.ipynb`
-7. **Метод ближайших соседей** - `knn.ipynb`
+7. **Метод ближайших соседей (ШАД)** - `knn.ipynb`
 
