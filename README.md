@@ -7,7 +7,7 @@
 3. Pandas - `Pandas.ipynb`
 4. Seaborn - `seaborn.ipynb`
 5. Кросс-валидация - `cross-validation.ipynb`
-6. **Линейные модели** - `Linear_model.ipynb
+6. **Линейные модели** - `Linear_model.ipynb`
 
 
 Решения:
