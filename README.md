@@ -2,11 +2,12 @@
 
 База:       
 
-1. Списки, словари, множества - `Lists, dicts, sets.ipynb`       
+1. Списки, словари, множества - `Lists_dicts_sets.ipynb`       
 2. Numpy, Scipy, Matplotlib - `Numpy, Scipy, Matplotlib.ipynb`       
 3. Pandas - `Pandas.ipynb`
 4. Seaborn - `seaborn.ipynb`
 5. Кросс-валидация - `cross-validation.ipynb`
+6. **Линейные модели** - `Linear_model.ipynb
 
 
 Решения:
