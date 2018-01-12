@@ -9,7 +9,8 @@
 --------------------------------       
 5. Кросс-валидация - `cross-validation.ipynb`
 6. **Линейные модели** - `Linear_model.ipynb`          
-   Задача *bike sharing* - `bike_sharing.ipynb`
+   Задача *bike sharing* - `bike_sharing.ipynb`       
+7. Решающие деревья - `Decision_trees_coursera.ipynb`       
 
 --------------------------------      
 
