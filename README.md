@@ -18,8 +18,11 @@
 Решения:
 
 1. (Спец.) Аппроксимация функций - `approximation.ipynb`
-1. (ШАД) Решающие деревья - `decision_trees.py`        
-2. (Спец.) Линейная регрессия и стохастический градиентный спуск - `Linear_regression.ipynb`
-3. (ШАД) Метод ближайших соседей - `knn.ipynb`         
-4. (ШАД) Стохастический градиентный спуск и нормализация признаков - `Stohast_and_norm_features.ipynb`
-5. (ШАД) Случайный лес - `Random_Forest_Task.ipynb`
+2. (ШАД) Решающие деревья - `decision_trees.py`        
+3. (Спец.) Линейная регрессия и стохастический градиентный спуск - `Linear_regression.ipynb`
+4. (ШАД) Метод ближайших соседей - `knn.ipynb`         
+5. (ШАД) Стохастический градиентный спуск и нормализация признаков - `Stohast_and_norm_features.ipynb`
+6. (ШАД) Случайный лес - `Random_Forest_Task.ipynb`      
+       
+**Курс OpenDataScience**       
+1. Первичный анализ и визуализация данных - `1_Analysis_and_visualisation.ipynb`      
