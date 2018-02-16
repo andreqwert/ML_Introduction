@@ -23,6 +23,8 @@
 4. (ШАД) Метод ближайших соседей - `knn.ipynb`         
 5. (ШАД) Стохастический градиентный спуск и нормализация признаков - `Stohast_and_norm_features.ipynb`
 6. (ШАД) Случайный лес - `Random_Forest_Task.ipynb`      
-       
+
+--------------------------------     
+
 **Курс OpenDataScience**       
 1. Первичный анализ и визуализация данных - `1_Analysis_and_visualisation.ipynb`      
